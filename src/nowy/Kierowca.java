@@ -10,7 +10,7 @@ package nowy;
  *
  * @author student
  */
-public class Kierowca {
+public abstract class Kierowca {
     
     
      String imie;
